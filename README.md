@@ -3,9 +3,8 @@ git-together
 
 Let's all learn Git together!
 
-
-          <h3>Creating a New Repository Via the Command Line</h3>
-          <pre>
+<h3>Creating a New Repository Via the Command Line</h3>
+<pre>
 touch README.md
 git init
 git add README.md
