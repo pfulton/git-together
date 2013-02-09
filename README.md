@@ -13,9 +13,9 @@ git remote add origin https://github.com/joshsager/WebStartingFiles.git
 // you might have to try the ssh approach 
 git remote add origin git@github.com:joshsager/WebStartingFiles.git
 git push -u origin master          
-          </pre>
-          <h3>Common git commands</h3>
-          <pre>
+</pre>
+<h3>Common git commands</h3>
+<pre>
 // copies repository to your local drive          
 git clone git@github.com:joshsager/WebStartingFiles.git   
 // reports the status of your local repo    
@@ -30,9 +30,9 @@ git push
 git log
 // Removes a file from staging
 git reset         
-          </pre>
-           <h3>Common Linux commands</h3>
-           <pre>
+</pre>
+<h3>Common Linux commands</h3>
+<pre>
 // creates a file
 touch index.html
 // creates a directory
@@ -47,4 +47,4 @@ clip index.html
 cp -r css/stuff css/newstuff
 // Hard delete and will not prompt you
 rm -f index.html
-           </pre>
+</pre>
