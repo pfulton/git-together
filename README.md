@@ -56,3 +56,5 @@ cp -r css/stuff css/newstuff
 // Hard delete and will not prompt you
 rm -f index.html
 </pre>
+<h3>Tips for Writing Commit Messages</h3>
+[Here's a useful note on writing commit messages, and in what tense you should write them](http://stackoverflow.com/questions/3580013/should-i-use-past-or-present-tense-in-git-commit-messages)
