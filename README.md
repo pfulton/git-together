@@ -39,24 +39,10 @@ git log
 // Removes a file from staging
 git reset         
 </pre>
-<h3>Common Linux commands</h3>
-<pre>
-// creates a file
-touch index.html
-// creates a directory
-mkdir css
-// Changes to inside a directory
-cd css
-// Changes to go up a directory
-cd ../
-// Copies the contents of the file to the clipboard
-clip index.html
-// Copies the directory and all of its contents to another folder
-cp -r css/stuff css/newstuff
-// Hard delete and will not prompt you
-rm -f index.html
-// Move folders
-mv dirToBeMoved destinationFolder
-</pre>
 <h3>Tips for Writing Commit Messages</h3>
 [Here's a useful note on writing commit messages, and in what tense you should write them](http://stackoverflow.com/questions/3580013/should-i-use-past-or-present-tense-in-git-commit-messages)
+<h1>Other Helper Guides</h1>
+<ul>
+	<li><a href="https://github.com/pfulton/git-together/blob/sagerworking/docs/linux.md">Common Linux Commands</a></li>
+	<li><a href="https://github.com/pfulton/git-together/blob/sagerworking/docs/vi.md">vi Text Editor - Cheat Sheet</a></li>
+</ul>
