@@ -43,6 +43,6 @@ git reset
 [Here's a useful note on writing commit messages, and in what tense you should write them](http://stackoverflow.com/questions/3580013/should-i-use-past-or-present-tense-in-git-commit-messages)
 <h1>Other Helper Guides</h1>
 <ul>
-	<li><a href="https://github.com/pfulton/git-together/blob/sagerworking/docs/linux.md">Common Linux Commands</a></li>
-	<li><a href="https://github.com/pfulton/git-together/blob/sagerworking/docs/vi.md">vi Text Editor - Cheat Sheet</a></li>
+	<li><a href="https://github.com/pfulton/git-together/blob/master/docs/linux.md">Common Linux Commands</a></li>
+	<li><a href="https://github.com/pfulton/git-together/blob/master/docs/vi.md">vi Text Editor - Cheat Sheet</a></li>
 </ul>
