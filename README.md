@@ -17,15 +17,15 @@ touch README.md
 git init
 git add README.md
 git commit -m "first commit"
-git remote add origin https://github.com/joshsager/WebStartingFiles.git
+git remote add origin https://github.com/xxx-username-xxx/xxx-reponame-xxx.git 
 // you might have to try the ssh approach 
-git remote add origin git@github.com:joshsager/WebStartingFiles.git
+git remote add origin git@github.com:xxx-username-xxx/xxx-reponame-xxx.git 
 git push -u origin master          
 </pre>
 <h3>Common git commands</h3>
 <pre>
 // copies repository to your local drive          
-git clone git@github.com:joshsager/WebStartingFiles.git   
+git clone git@github.com:xxx-username-xxx/xxx-reponame-xxx.git   
 // reports the status of your local repo    
 git status
 // adds all changed files to the working directory
@@ -55,6 +55,8 @@ clip index.html
 cp -r css/stuff css/newstuff
 // Hard delete and will not prompt you
 rm -f index.html
+// Move folders
+mv dirToBeMoved destinationFolder
 </pre>
 <h3>Tips for Writing Commit Messages</h3>
 [Here's a useful note on writing commit messages, and in what tense you should write them](http://stackoverflow.com/questions/3580013/should-i-use-past-or-present-tense-in-git-commit-messages)
