@@ -17,6 +17,8 @@ control + C
 w
 // Left and Right
 h l
-// Up and Down
+// Down and Up
 j k
+// Delete the the line
+dd
 </pre>
