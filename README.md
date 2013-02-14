@@ -39,6 +39,8 @@ git log
 // Removes a file from staging
 git reset         
 </pre>
+<h3>Tips for Writing Commit Messages</h3>
+<a href="http://stackoverflow.com/questions/3580013/should-i-use-past-or-present-tense-in-git-commit-messages">Here's a useful note on writing commit messages, and in what tense you should write them</a>
 <h1>Other Helper Guides</h1>
 <ul>
 	<li><a href="https://github.com/pfulton/git-together/blob/sagerworking/docs/linux.md">Common Linux Commands</a></li>
